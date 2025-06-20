@@ -1,4 +1,4 @@
-# Microcebe_Public <a href="https://github.com/PierreDupont"><img src="data/Microcebe.png" align="right" height="230"/></a>
+# Microcebe_Public <a href="https://github.com/PierreDupont"><img src="data/Microcebe.png" align="right" height="220"/></a>
 
 This repository contains the data, R and nimble material associated with the Capture-Mark-Recapture analysis of the mouse lemur  (_Microcebus murinus_) data from Mandena (Madagascar) as presented in the article "Effects of management strategies on the survival probability of a small remnant population of mouse lemurs" published in Oikos.
 

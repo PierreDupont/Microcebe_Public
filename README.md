@@ -5,6 +5,3 @@ This repository contains the data, R and nimble material associated with the Cap
   - The "data" folder contains the Mandena CMR data prepared for analysis with the R package NIMBLE.
   - The "functions" folder contains custom R functions to facilitate output processing and plotting.
   - The "R code" folder contains the scripts to run the analysis and plot the results.
-
-
-<img src="data/microcebe.png" align="center" height="230"/></a>
